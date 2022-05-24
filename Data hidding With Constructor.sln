@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.547
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data hidding With Constructor Get method", "Data hidding With Constructor\Data hidding With Constructor Get method.csproj", "{77A3F070-2484-4981-81DE-DC53EB2C1D93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77A3F070-2484-4981-81DE-DC53EB2C1D93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77A3F070-2484-4981-81DE-DC53EB2C1D93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77A3F070-2484-4981-81DE-DC53EB2C1D93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77A3F070-2484-4981-81DE-DC53EB2C1D93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09C5A3E4-9D89-433F-BDB5-85648FE130FF}
+	EndGlobalSection
+EndGlobal
